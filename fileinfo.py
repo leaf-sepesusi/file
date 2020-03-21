@@ -6,3 +6,7 @@
 # Modification       :
 
 # Description            : Show file information for a given file
+
+# get file information using os.stat()
+# tested with Python24 vegsaeat 25sep2006
+from __future__ import print_function
